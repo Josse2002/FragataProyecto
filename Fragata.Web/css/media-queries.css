@@ -1,0 +1,103 @@
+﻿@media(max-width:825px) {
+    .swiper-container {
+        width: 130%;
+        overflow: hidden;
+        height: 325px;
+    }
+}
+
+@media(max-width:685px) {
+    .swiper-container {
+        width: 150%;
+        overflow: hidden;
+        height: 325px;
+    }
+}
+
+@media(max-width:614px) {
+    .swiper-container {
+        width: 180%;
+        overflow: hidden;
+        height: 325px;
+    }
+}
+
+@media(max-width:528px) {
+    .swiper-container {
+        width: 200%;
+        overflow: hidden;
+        height: 325px;
+    }
+}
+
+@media(max-width:483px) {
+    .swiper-container {
+        width: 210%;
+        overflow: hidden;
+        height: 325px;
+    }
+}
+@media(max-width:695px) {
+    .texto-separador h2 {
+        width: 50%;
+        margin: 0% 25%;
+        margin-top: 58px;
+    }
+}
+
+@media(max-width:1266px) {
+    .servicios {
+        width: 16.5%;
+        margin: 0% 41.75%;
+        margin-top: 0px;
+        border: solid 3px rgb(0, 0, 0);
+        padding: 10px;
+        word-wrap: break-word;
+        text-align: center;
+    }
+}
+@media(max-width:1082px) {
+    .servicios {
+        width: 20%;
+        margin: 0% 40%;
+        margin-top: 0px;
+        border: solid 3px rgb(0, 0, 0);
+        padding: 10px;
+        word-wrap: break-word;
+        text-align: center;
+    }
+}
+
+@media(max-width:826px) {
+    .servicios {
+        width: 25%;
+        margin: 0% 37.5%;
+        margin-top: 0px;
+        border: solid 3px rgb(0, 0, 0);
+        padding: 10px;
+        word-wrap: break-word;
+        text-align: center;
+    }
+}
+@media(max-width:630px) {
+    .servicios {
+        width: 35%;
+        margin: 0% 32.5%;
+        margin-top: 0px;
+        border: solid 3px rgb(0, 0, 0);
+        padding: 10px;
+        word-wrap: break-word;
+        text-align: center;
+    }
+}
+@media(max-width:482px) {
+    .servicios {
+        width: 40%;
+        margin: 0% 30%;
+        margin-top: 0px;
+        border: solid 3px rgb(0, 0, 0);
+        padding: 10px;
+        word-wrap: break-word;
+        text-align: center;
+    }
+}
